@@ -1,6 +1,3 @@
-# Research-first-assignment-
-# Research-first-assignment-
-
 # Bone Suppression from Chest Radiographs
 
 The project is a tool to build **Bone Suppression** model, written in tensorflow
@@ -64,4 +61,3 @@ Chuong M. Huynh (minhchuong.itus@gmail.com)
 
 ## License
 MIT
-
